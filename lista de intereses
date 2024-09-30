@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Interesses - Filmes de Terror</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #333333;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meus Filmes de Terror Favoritos</h1>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=YDGw1MTEe9k" target="_blank">O Exorcista</a></li>
+        <li><a href="https://www.youtube.com/watch?v=S014oGZiSdI" target="_blank">O Iluminado</a></li>
+        <li><a href="https://www.youtube.com/watch?v=V6wWKNij_1M" target="_blank">Hereditário</a></li>
+        <li><a href="https://www.youtube.com/watch?v=k10ETZ41q5o" target="_blank">Invocação do Mal</a></li>
+        <li><a href="https://www.youtube.com/watch?v=DzfpyUB60YY" target="_blank">Corra!</a></li>
+    </ul>
+</body>
+</html>
